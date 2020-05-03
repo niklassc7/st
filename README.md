@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# Fork of Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
@@ -32,7 +32,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 ## Installation for newbs
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/niklassc7/st
 cd st
 sudo make install
 ```
